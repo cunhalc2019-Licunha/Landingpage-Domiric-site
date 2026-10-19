@@ -1,0 +1,236 @@
+{
+  "faqGeral": [
+    {
+      "q": "Qual regime é melhor para mim: Simples Nacional ou Lucro Presumido?",
+      "a": "Depende do faturamento, das despesas e da sua atividade. No diagnóstico tributário gratuito comparamos os dois cenários com os seus números, para você decidir com dados e não por palpite."
+    },
+    {
+      "q": "Vocês atendem só médicos?",
+      "a": "Não. Atendemos médicos, enfermeiros, anestesistas, psicólogos, fisioterapeutas, nutricionistas, dentistas e outros profissionais de saúde que atuam como pessoa jurídica."
+    },
+    {
+      "q": "O diagnóstico tributário é gratuito mesmo?",
+      "a": "Sim. O diagnóstico inicial não tem custo. Você conversa com um especialista e recebe uma comparação dos cenários tributários para a sua atividade."
+    },
+    {
+      "q": "Como funciona o atendimento?",
+      "a": "100% online, em todo o Brasil. O contato principal é pelo WhatsApp, de segunda a sexta, das 8h às 18h, direto com um especialista, sem fila de espera."
+    },
+    {
+      "q": "A Reforma Tributária vai mudar o meu imposto?",
+      "a": "As mudanças são graduais e dependem do seu enquadramento. Acompanhamos a regulamentação e orientamos o que muda no seu caso, com antecedência."
+    }
+  ],
+  "professions": [
+    {
+      "slug": "medicos",
+      "nome": "médicos",
+      "singular": "Médico",
+      "titulo": "Contabilidade para médicos PJ",
+      "resumo": "Plantões, convênios e consultório próprio.",
+      "sub": "Plantões, convênios e consultório próprio: organize seus recebimentos e pague o imposto certo para a sua atividade.",
+      "dores": [
+        "Recebimentos de vários hospitais, convênios e pacientes",
+        "Dúvida entre Simples Nacional e Lucro Presumido",
+        "Pró-labore e distribuição de lucros sem orientação clara",
+        "Notas fiscais e obrigações do mês tomando o seu tempo"
+      ],
+      "ajuda": [
+        "Diagnóstico para comparar os regimes tributários com os seus números",
+        "Contabilidade mensal e apoio com as notas fiscais",
+        "Orientação sobre pró-labore e distribuição de lucros",
+        "Acompanhamento das mudanças da Reforma Tributária"
+      ],
+      "faq": [
+        {
+          "q": "Médico PJ deve optar pelo Simples Nacional ou pelo Lucro Presumido?",
+          "a": "Depende do faturamento, das despesas e da especialidade. No diagnóstico tributário gratuito comparamos os dois cenários com os seus números, para você decidir com segurança."
+        },
+        {
+          "q": "Atendem médicos de qualquer especialidade?",
+          "a": "Sim. Atendemos médicos que atuam em plantões, convênios ou consultório próprio, de diversas especialidades."
+        }
+      ]
+    },
+    {
+      "slug": "enfermeiros",
+      "nome": "enfermeiros",
+      "singular": "Enfermeiro",
+      "titulo": "Contabilidade para enfermeiros PJ",
+      "resumo": "Plantões e atendimentos para diferentes contratantes.",
+      "sub": "Plantões e atendimentos para diferentes contratantes: deixe a parte fiscal organizada e saiba quanto de imposto você deve.",
+      "dores": [
+        "Receber de mais de um contratante",
+        "Escolher o regime tributário mais vantajoso",
+        "Emitir e controlar as notas fiscais de cada plantão",
+        "Separar o dinheiro da empresa do dinheiro pessoal"
+      ],
+      "ajuda": [
+        "Diagnóstico tributário para a sua realidade de plantões",
+        "Contabilidade mensal com apoio nas notas fiscais",
+        "Orientação sobre retirada (pró-labore) e distribuição de lucros",
+        "Atendimento direto por WhatsApp, sem burocracia"
+      ],
+      "faq": [
+        {
+          "q": "Enfermeiro PJ paga menos imposto?",
+          "a": "Depende do regime e do faturamento. Não prometemos economia: comparamos os cenários no diagnóstico e mostramos quanto cada um custaria no seu caso."
+        },
+        {
+          "q": "Posso atender mais de um contratante com a mesma empresa?",
+          "a": "Em geral sim, e a contabilidade organiza as notas e os recebimentos de cada um. Confirmamos o seu caso no diagnóstico."
+        }
+      ]
+    },
+    {
+      "slug": "anestesistas",
+      "nome": "anestesistas",
+      "singular": "Anestesista",
+      "titulo": "Contabilidade para anestesistas PJ",
+      "resumo": "Vários hospitais e fontes pagadoras.",
+      "sub": "Vários hospitais e fontes pagadoras: tenha clareza sobre o que você recebe e sobre o imposto devido.",
+      "dores": [
+        "Recebimentos de diferentes hospitais e fontes pagadoras",
+        "Muitas notas e repasses para controlar",
+        "Dúvida sobre o melhor regime tributário",
+        "Falta de planejamento para o ano seguinte"
+      ],
+      "ajuda": [
+        "Registro de cada fonte pagadora e conciliação mensal dos recebimentos",
+        "Diagnóstico para comparar Simples Nacional e Lucro Presumido",
+        "Orientação sobre pró-labore e distribuição de lucros",
+        "Acompanhamento da Reforma Tributária e do seu enquadramento"
+      ],
+      "faq": [
+        {
+          "q": "Anestesista recebe de vários lugares. Como a contabilidade organiza isso?",
+          "a": "Registramos cada fonte pagadora e conciliamos notas e recebimentos mês a mês, para você enxergar o total e apurar o imposto com segurança."
+        },
+        {
+          "q": "Vale revisar o regime tributário todo ano?",
+          "a": "Sim. Faturamento e despesas mudam, e a Reforma Tributária traz novidades. Uma revisão antes do fim do ano evita surpresas."
+        }
+      ]
+    },
+    {
+      "slug": "psicologos",
+      "nome": "psicólogos",
+      "singular": "Psicólogo",
+      "titulo": "Contabilidade para psicólogos PJ",
+      "resumo": "Consultório, atendimento online e convênios.",
+      "sub": "Consultório, atendimento online ou convênios: mantenha a contabilidade e os impostos da sua empresa em ordem.",
+      "dores": [
+        "Atendimento em mais de um local ou online",
+        "Receber de pacientes e de convênios",
+        "Dúvida entre Simples Nacional e Lucro Presumido",
+        "Pouco tempo para cuidar da parte fiscal"
+      ],
+      "ajuda": [
+        "Contabilidade mensal e apoio com as notas fiscais",
+        "Diagnóstico tributário com os números do seu consultório",
+        "Orientação sobre retirada e distribuição de lucros",
+        "Atendimento online, direto por WhatsApp"
+      ],
+      "faq": [
+        {
+          "q": "Psicólogo PJ precisa de contabilidade mensal?",
+          "a": "Sim. Empresa ativa tem obrigações todos os meses. Cuidamos delas e orientamos você sobre impostos, notas fiscais e retirada."
+        },
+        {
+          "q": "O atendimento é online mesmo?",
+          "a": "Sim. 100% online, com atendimento direto por WhatsApp, de segunda a sexta, das 8h às 18h."
+        }
+      ]
+    },
+    {
+      "slug": "fisioterapeutas",
+      "nome": "fisioterapeutas",
+      "singular": "Fisioterapeuta",
+      "titulo": "Contabilidade para fisioterapeutas PJ",
+      "resumo": "Clínica, atendimento domiciliar ou plantão.",
+      "sub": "Clínica, atendimento domiciliar ou plantão: organize recebimentos e impostos e atenda com a parte fiscal em dia.",
+      "dores": [
+        "Receber de pacientes, convênios e clínicas parceiras",
+        "Escolher o regime tributário mais adequado",
+        "Controlar notas e despesas da atividade",
+        "Falta de orientação para planejar o próximo ano"
+      ],
+      "ajuda": [
+        "Diagnóstico para comparar os regimes tributários",
+        "Contabilidade mensal e apoio com as notas fiscais",
+        "Orientação sobre pró-labore e distribuição de lucros",
+        "Atendimento direto por WhatsApp"
+      ],
+      "faq": [
+        {
+          "q": "Fisioterapeuta PJ pode ter despesas na empresa?",
+          "a": "Pode ter despesas ligadas à atividade, e o que é aceito depende de cada caso e do regime. Orientamos você sobre o que organizar desde o início."
+        },
+        {
+          "q": "Quanto tempo leva o diagnóstico?",
+          "a": "Você conversa com um especialista pelo WhatsApp e informa faturamento e despesas aproximados. A comparação dos cenários vem em seguida."
+        }
+      ]
+    },
+    {
+      "slug": "nutricionistas",
+      "nome": "nutricionistas",
+      "singular": "Nutricionista",
+      "titulo": "Contabilidade para nutricionistas PJ",
+      "resumo": "Consultório, atendimento online e consultorias.",
+      "sub": "Consultório, atendimento online ou consultorias: tenha a contabilidade e os impostos da sua empresa sob controle.",
+      "dores": [
+        "Receber de pacientes, empresas e plataformas",
+        "Dúvida sobre o regime tributário ideal",
+        "Notas fiscais e obrigações mensais",
+        "Pouco tempo para a parte administrativa"
+      ],
+      "ajuda": [
+        "Diagnóstico tributário com os seus números",
+        "Contabilidade mensal e apoio com as notas fiscais",
+        "Orientação sobre retirada e distribuição de lucros",
+        "Atendimento online, direto por WhatsApp"
+      ],
+      "faq": [
+        {
+          "q": "Nutricionista PJ precisa emitir nota fiscal?",
+          "a": "Em geral, sim, para os serviços prestados pela empresa. Orientamos como emitir e organizar as notas conforme a sua cidade e o seu regime."
+        },
+        {
+          "q": "Atendem quem trabalha só online?",
+          "a": "Sim. Nosso atendimento é 100% online, em todo o Brasil."
+        }
+      ]
+    },
+    {
+      "slug": "dentistas",
+      "nome": "dentistas",
+      "singular": "Dentista",
+      "titulo": "Contabilidade para dentistas PJ",
+      "resumo": "Consultório e convênios odontológicos.",
+      "sub": "Consultório e convênios odontológicos: organize recebimentos, despesas e impostos da sua empresa.",
+      "dores": [
+        "Receber de pacientes e de convênios",
+        "Controlar despesas e fornecedores do consultório",
+        "Dúvida entre Simples Nacional e Lucro Presumido",
+        "Notas fiscais e obrigações do mês"
+      ],
+      "ajuda": [
+        "Diagnóstico para comparar os regimes tributários",
+        "Contabilidade mensal e apoio com as notas fiscais",
+        "Orientação sobre pró-labore e distribuição de lucros",
+        "Organização financeira para quem tem consultório e equipe"
+      ],
+      "faq": [
+        {
+          "q": "Dentista com consultório e equipe precisa de mais algo além da contabilidade?",
+          "a": "Pode precisar de apoio com folha de pagamento e obrigações trabalhistas, e também oferecemos RH terceirizado. Avaliamos o seu caso na conversa inicial."
+        },
+        {
+          "q": "O diagnóstico tributário é gratuito?",
+          "a": "Sim. O diagnóstico inicial não tem custo."
+        }
+      ]
+    }
+  ]
+}
