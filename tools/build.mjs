@@ -115,7 +115,7 @@ function contact(current) {
   <div class="wrap contact-grid">
     <div>
       <span class="eyebrow">Contato</span>
-      <h2>${current ? `Vamos cuidar da contabilidade da sua empresa de ${esc(current.nome)}` : 'Vamos cuidar da contabilidade da sua empresa'}</h2>
+      <h2>Vamos cuidar da contabilidade da sua empresa</h2>
       <p class="lead">Atendimento 100% online, em todo o Brasil. Fale com a equipe pelo WhatsApp e peça o seu diagnóstico tributário gratuito.</p>
       <ul class="contact-list">
         <li><strong>WhatsApp</strong><a href="${WA}" target="_blank" rel="noopener" data-loc="contato">${PHONE}</a></li>
@@ -207,8 +207,8 @@ ${header()}
   <section class="hero">
     <div class="wrap hero-grid">
       <div class="hero-copy">
-        <span class="eyebrow">Contabilidade para profissionais de saúde PJ</span>
-        <h1>Você cuida da saúde dos outros. <em>Nós cuidamos</em> da contabilidade da sua empresa.</h1>
+        <span class="eyebrow">Domiric Contábil · 100% online</span>
+        <h1>Contabilidade para <em>profissionais de saúde PJ</em></h1>
         <p class="lead">Contabilidade especializada para médicos, enfermeiros, anestesistas, psicólogos e outros profissionais de saúde que atuam como pessoa jurídica. 100% online, com atendimento direto por WhatsApp.</p>
         <ul class="check-list">
           <li>${icon.check}Planejamento tributário: Simples Nacional ou Lucro Presumido</li>
@@ -217,15 +217,11 @@ ${header()}
         </ul>
         <div class="hero-ctas">
           <a class="btn btn-primary" href="${WA}" target="_blank" rel="noopener" data-loc="hero">Falar no WhatsApp</a>
-          <a class="btn btn-ghost" href="#para-quem">Escolher minha profissão</a>
+          <a class="btn btn-ghost" href="${WA}" target="_blank" rel="noopener" data-loc="hero-abrir-cnpj">Abrir um CNPJ</a>
         </div>
+        <p class="micro">100% online · ${HOURS}</p>
       </div>
-      <aside class="hero-card">
-        <span class="badge">Sem custo</span>
-        <h2>Diagnóstico tributário gratuito</h2>
-        <p>Compare Simples Nacional e Lucro Presumido com os seus números e descubra qual cenário faz mais sentido para a sua atividade.</p>
-        <a class="btn btn-primary btn-block" href="${WA}" target="_blank" rel="noopener" data-loc="hero-card">Quero o meu diagnóstico</a>
-      </aside>
+      <figure class="hero-photo"><img src="/hero-contador.jpg" alt="Contador sorrindo em escritório" width="992" height="1082" fetchpriority="high"></figure>
     </div>
   </section>
 
@@ -291,14 +287,9 @@ ${header()}
           <a class="btn btn-primary" href="${WA}" target="_blank" rel="noopener" data-loc="hero">Falar no WhatsApp</a>
           <a class="btn btn-ghost" href="#contato">Receber contato</a>
         </div>
-        <p class="micro">Diagnóstico tributário gratuito · 100% online · ${HOURS}</p>
+        <p class="micro">100% online · ${HOURS}</p>
       </div>
-      <aside class="hero-card">
-        <span class="badge">Sem custo</span>
-        <h2>Diagnóstico tributário gratuito</h2>
-        <p>Compare Simples Nacional e Lucro Presumido com os números da sua atividade como ${esc(p.nome.replace(/s$/, ''))}.</p>
-        <a class="btn btn-primary btn-block" href="${WA}" target="_blank" rel="noopener" data-loc="hero-card">Quero o meu diagnóstico</a>
-      </aside>
+      <figure class="hero-photo"><img src="/hero-contador.jpg" alt="Contador sorrindo em escritório" width="992" height="1082" fetchpriority="high"></figure>
     </div>
   </section>
 
