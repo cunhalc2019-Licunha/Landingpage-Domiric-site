@@ -217,7 +217,7 @@ ${header()}
         </ul>
         <div class="hero-ctas">
           <a class="btn btn-primary" href="${WA}" target="_blank" rel="noopener" data-loc="hero">Falar no WhatsApp</a>
-          <a class="btn btn-ghost" href="${WA}" target="_blank" rel="noopener" data-loc="hero-abrir-cnpj">Abrir um CNPJ</a>
+          <a class="btn btn-ghost" href="${WA}" target="_blank" rel="noopener" data-loc="hero-abrir-cnpj">Abrir o meu CNPJ</a>
         </div>
         <p class="micro">100% online · ${HOURS}</p>
       </div>
